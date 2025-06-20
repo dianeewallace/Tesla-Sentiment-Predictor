@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 # Tesla Stock Sentiment Predictor 🚗📈
 
 This project uses Reddit sentiment from r/wallstreetbets to predict the movement of Tesla (TSLA) stock for the next trading day.
