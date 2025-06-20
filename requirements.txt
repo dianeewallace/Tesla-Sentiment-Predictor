@@ -1,0 +1,7 @@
+pandas
+praw
+yfinance
+vaderSentiment
+scikit-learn
+matplotlib
+python-dotenv
